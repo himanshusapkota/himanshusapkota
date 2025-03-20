@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshusapkota
 - 👀 I’m interested in Graphics Design and Website Development
-- 🌱 I’m currently learning My SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: he/him/maybe the goat
